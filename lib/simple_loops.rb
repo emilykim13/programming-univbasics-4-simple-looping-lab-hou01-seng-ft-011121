@@ -29,9 +29,9 @@ def loop_message_n_times(message, number)
   puts message 
 end
 
-def output_array(array, number)
+def output_array(array)
   array = "Be yourself;", "everyone else is already taken", "- Oscar Wilde"
-  number = 0, 1, 2
+  array = ["5", "4", "3", "2", "1"]
   puts output_array
 end
 
