@@ -34,3 +34,7 @@ def output_array(array, number)
   number = 0, 1, 2
   puts output_array
 end
+
+def return_string_array(array)
+  array = [5, 4, 3, 2, 1]
+end
