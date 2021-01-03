@@ -31,6 +31,6 @@ end
 
 def output_array(array, number)
   array = "Be yourself;", "everyone else is already taken", "- Oscar Wilde"
-  number = 5, 4, 3, 2, 1
+  number = 0, 1, 2
   puts output_array
 end
